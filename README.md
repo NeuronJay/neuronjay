@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**neuronjay** is holds ✨ _special_ ✨ meaning to me as it reminds that everthing is acheivable once you set your mind on it. 
+**neuronjay** holds ✨ _special_ ✨ meaning to me as it reminds that everthing is acheivable once you set your mind on it. 
 Hence, the name neuron(brain) 
 
 Here are some ideas to get you started:
