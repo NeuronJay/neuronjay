@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 💬 Ask me about about what was the recent bug that I spent hours fixing, or my last TV show that I binge-watched.
 
 📫 How to reach me: 
-<p><a href="https://www.twitter.com/jaydev_13"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-  
-<a href="https://www.linkedin.com/in/neuronjay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-  
-<a href="https://jaydev13.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
-  
-<a href="https://www.instagram.com/jaydev_13/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> </p>
+<p><a href="https://www.twitter.com/jaydev_13"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/neuronjay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://jaydev13.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://www.instagram.com/jaydev_13/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> </p>
 
 ⚡ Fun fact: When I am not coding or ranting about the bugs, I enjoy writing.
