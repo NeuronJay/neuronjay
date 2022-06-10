@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Angular JS, Swift. I am always in lookout for new things in Python aspect - Django and ML
 
-👯 I am happy to have people work on the snoolink idea or I always ears for any exciting idea.
+👯 I am happy to have people work on the snoolink project or I am always ears for any exciting idea.
 
 🤔 I’m looking for help with creating a robust data extraction system for all the top social media platforms.
 
