@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: When I am not coding or ranting about the bugs, I enjoy writing.
 
-![alt text]([https://images-na.ssl-images-amazon.com/images/I/41xCVhOefjL._SX331_BO1,204,203,200_.jpg])
+![alt text](https://images-na.ssl-images-amazon.com/images/I/41xCVhOefjL._SX331_BO1,204,203,200_.jpg)
