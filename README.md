@@ -28,4 +28,4 @@ Hence, the name neuron(brain).
 
 ⚡ **Fun fact:** When I'm not coding or debugging, I enjoy writing.
 
-![alt text](https://images-na.ssl-images-amazon.com/images/I/41xCVhOefjL._SX331_BO1,204,203,200_.jpg)
+[![June & August – A Tale of Two People](https://images-na.ssl-images-amazon.com/images/I/41xCVhOefjL._SX331_BO1,204,203,200_.jpg)](https://www.amazon.in/June-August-Tale-Two-People/dp/1638860289)
