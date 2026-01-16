@@ -5,17 +5,17 @@ Hence, the name neuron(brain).
 
 ## About Me
 
-I'm a **Python Data Engineer** with expertise in building scalable ETL pipelines, data architectures, and ML workflows. I combine data engineering principles with full-stack development using the **MERN stack** (MongoDB, Express.js, React, Node.js).
+**Data Engineer** with 5+ years of experience building scalable AWS data platforms, production-grade ETL pipelines, and ML-ready data architectures, while also developing full-stack, data-driven applications using **React and Node.js**
 
-🔭 **Currently Building:** [Snoolink](https://snoolink.com) - A platform that transforms social media data into beautiful personal websites. Built with MERN stack + Python data pipelines for robust social media extraction and processing. Check it out: [github.com/snoolink](https://github.com/snoolink)
+🔭 **Currently Building:** [Snoolink](https://snoolink.com) - A platform that transforms the regular content curation and creations for B2B agencies and content creators. Designed with a React-first MERN frontend and an AI-intensive backend that combines realtime data pipelines, OpenAI embeddings, Pinecone vector storage, and LLM-based RAG to power intelligent social media extraction and semantic search. Check it out: [github.com/snoolink](https://github.com/snoolink)
 
-🌱 **Currently Learning:** Angular JS, Swift, and always exploring new Python frameworks (Django, ML)
+🌱 **Currently Working:** End-to-end semantic search architecture using OpenAI textual embeddings, Pinecone vector indexing, and RAG with LLMs to enhance search accuracy and contextual matching.
 
-👯 **Open to collaborate on:** Data engineering projects, MERN applications, Snoolink, or any exciting ideas
+👯 **Open to collaborate on:** Data engineering projects, Snoolink, or any exciting ideas
 
-🤔 **Looking for help with:** Building scalable data extraction systems for major social media platforms
+🤔 **Looking for help with:** Building scalable data managing systems for Snoolink
 
-💬 **Ask me about:** Python data engineering, MERN stack, that bug I spent hours fixing, or my latest binge-watch
+💬 **Ask me about:** Latest data pipeline I build or broke, my last losing stock option trade, that bug I spent hours fixing, or my latest binge-watch
 
 ### 📫 Connect With Me
 
