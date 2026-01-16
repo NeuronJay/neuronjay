@@ -1,26 +1,31 @@
-### Hi there 👋
+# Hi there 👋
 
-**neuronjay** holds ✨ _special_ ✨ meaning to me as it reminds that everthing is acheivable once you set your mind on it. 
-Hence, the name neuron(brain) 
+**neuronjay** holds ✨ _special_ ✨ meaning to me as it reminds me that everything is achievable once you set your mind to it. 
+Hence, the name neuron(brain).
 
-Here are some ideas to get you started:
+## About Me
 
-🔭 I’m currently working on Snoolink - https://snoolink.me which helps creates beautiful looking personal websitese from your social media data.
+I'm a **Python Data Engineer** with expertise in building scalable ETL pipelines, data architectures, and ML workflows. I combine data engineering principles with full-stack development using the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
-🌱 I’m currently learning Angular JS, Swift. I am always in lookout for new things in Python aspect - Django and ML
+🔭 **Currently Building:** [Snoolink](https://snoolink.com) - A platform that transforms social media data into beautiful personal websites. Built with MERN stack + Python data pipelines for robust social media extraction and processing. Check it out: [github.com/snoolink](https://github.com/snoolink)
 
-👯 I am happy to have people work on the snoolink project or I am always ears for any exciting idea.
+🌱 **Currently Learning:** Angular JS, Swift, and always exploring new Python frameworks (Django, ML)
 
-🤔 I’m looking for help with creating a robust data extraction system for all the top social media platforms.
+👯 **Open to collaborate on:** Data engineering projects, MERN applications, Snoolink, or any exciting ideas
 
-💬 Ask me about about what was the recent bug that I spent hours fixing, or my last TV show that I binge-watched.
+🤔 **Looking for help with:** Building scalable data extraction systems for major social media platforms
 
-📫 How to reach me: 
-<p><a href="https://www.twitter.com/jaydev_13"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/neuronjay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://jaydev13.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://www.instagram.com/jaydev_13/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> </p>
+💬 **Ask me about:** Python data engineering, MERN stack, that bug I spent hours fixing, or my latest binge-watch
 
-⚡ Fun fact: When I am not coding or ranting about the bugs, I enjoy writing.
+### 📫 Connect With Me
+
+<p>
+<a href="https://www.twitter.com/jaydev_13"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+<a href="https://www.linkedin.com/in/neuronjay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://jaydev13.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+<a href="https://www.instagram.com/jaydev_13/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+</p>
+
+⚡ **Fun fact:** When I'm not coding or debugging, I enjoy writing.
 
 ![alt text](https://images-na.ssl-images-amazon.com/images/I/41xCVhOefjL._SX331_BO1,204,203,200_.jpg)
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NeuronJay&show_icons=true&hide_border=true" />
-
